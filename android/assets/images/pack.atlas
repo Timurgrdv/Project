@@ -1,0 +1,195 @@
+
+pack.png
+size: 2048,512
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+attackBtn
+  rotate: false
+  xy: 1044, 402
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+attackBtn_down
+  rotate: false
+  xy: 804, 30
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+boid
+  rotate: false
+  xy: 914, 125
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+boid-blue
+  rotate: false
+  xy: 1142, 317
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+boid-green
+  rotate: false
+  xy: 1304, 449
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+boid-red
+  rotate: false
+  xy: 1462, 497
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+brick
+  rotate: false
+  xy: 1044, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 2, 2
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+earth
+  rotate: false
+  xy: 1044, 304
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+hull
+  rotate: false
+  xy: 1154, 398
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+hullGreen
+  rotate: false
+  xy: 2, 12
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+joystick_bg
+  rotate: false
+  xy: 804, 270
+  size: 238, 240
+  orig: 238, 240
+  offset: 0, 0
+  index: -1
+joystick_circle
+  rotate: false
+  xy: 934, 164
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
+level_bg
+  rotate: false
+  xy: 2, 30
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+mercury
+  rotate: false
+  xy: 1208, 360
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+satellite
+  rotate: false
+  xy: 1328, 462
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 804, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tankBody_green_outline
+  rotate: false
+  xy: 1378, 468
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+tankBody_red_outline
+  rotate: false
+  xy: 1420, 468
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+tankGreen_barrel3_outline
+  rotate: false
+  xy: 934, 150
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+tankRed_barrel3_outline
+  rotate: false
+  xy: 1042, 256
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+target
+  rotate: false
+  xy: 1142, 399
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+target2
+  rotate: false
+  xy: 1246, 406
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+treeGreen_large
+  rotate: false
+  xy: 1142, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+treeGreen_small
+  rotate: false
+  xy: 1246, 368
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+turret
+  rotate: false
+  xy: 1154, 464
+  size: 112, 46
+  orig: 112, 46
+  offset: 0, 0
+  index: -1
+turret1
+  rotate: false
+  xy: 1268, 464
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
